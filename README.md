@@ -4,7 +4,7 @@
 
 This is a Salah / Restaurant Template.
 
-# Live link:-- https://salad-section-hotel-sector.netlify.app
+# Live link:-- https://intelligent-buisness.netlify.app
 
 I Use this project
 <li>HTML</li>
